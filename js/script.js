@@ -1119,8 +1119,8 @@ const friendsData = [
     render: "assets/friends/render01.png",
     avatar: "assets/friends/avatar01.png", // Imagen circular del amigo
     video: "assets/friends/video01.mp4",
-    link: "https://xat.me/1517392869",
-    quote: "「 Te conocí apenas este año y, para ser sincero, eres de las pocas personas que realmente llegaron a agradarme. No suelo considerar fácilmente a alguien como un amigo, así que supongo que eso dice bastante.<br> Espero que esta amistad continúe durante mucho tiempo. Te estimo y, aunque no suelo decirlo, te deseo lo mejor en lo que venga。 」"
+    link: "https://xat.me/x",
+    quote: "「 」"
   },
   {
     number: 2,
@@ -1131,8 +1131,8 @@ const friendsData = [
     render: "assets/friends/render02.png",
     avatar: "assets/friends/avatar02.png",
     video: "assets/friends/video02.mp4",
-    link: "https://xat.me/1555016996",
-    quote: "「 PARA THEIN SARDO MIKEY. <br> A veces las palabras no son lo mío pero, a una de las leyendas más longevas del sat puntocon (?, y una de las personas más agradables de tratar por aquí.<br> Apareciendo aquí aprovecho para agradecer y destacarte por el buen trato, las risas, el estar pendiente de una forma u otra así no tengamos tanto tiempo y hasta por ser buena amiga de mis amigos.<br>  Por ello y más cosas, me alegra decirte que cuentas con un humilde servidor para tonterías o para cuando quieras hablar con alguien. Y recuerda, los haters solo se tragan como al alcohol (?. <br>Grande Thein。 」"
+    link: "https://xat.me/x",
+    quote: "「 。 」"
   },
   {
     number: 3,
@@ -1143,8 +1143,8 @@ const friendsData = [
     render: "assets/friends/render03.png",
     avatar: "assets/friends/avatar03.png",
     video: "assets/friends/video03.mp4",
-    link: "https://xat.me/201414748",
-    quote: "「 Te adoro amiga de mi corazón, cuenta conmigo para las que salgan. 15 años de amistad y contando. Reales hasta la muerte oiste bb。 」"
+    link: "https://xat.me/x",
+    quote: "「  」"
   },
   {
     number: 4,
@@ -1155,8 +1155,8 @@ const friendsData = [
     render: "assets/friends/render04.png",
     avatar: "assets/friends/avatar04.png",
     video: "assets/friends/video04.mp4",
-    link: "https://xat.me/266694246",
-    quote: "「 ”Hola mi potra, espero que algún dia compartamos peso muerto juntos y una sentadilla también, con cariño, Luguito”。 」"
+    link: "https://xat.me/x",
+    quote: "「  」"
   },
   {
     number: 5,
@@ -1167,8 +1167,8 @@ const friendsData = [
     render: "assets/friends/render05.png",
     avatar: "assets/friends/avatar05.png",
     video: "assets/friends/video05.mp4",
-    link: "https://xat.me/Nece",
-    quote: "「 Hace no mucho nos conocemos, pero gracias por hablarme y preocuparte de vez en cuando si ando sad o no.<br> Quiero que sepas que las circunstancias a veces no estan a nuestro favor, pero hay que seguir adelante, entonces si caes levante, y si necesitas ayuda sabes que podes contar conmigo, amiga Rox。 」"
+    link: "https://xat.me/x",
+    quote: "「 。 」"
   },
   {
     number: 6,
@@ -1179,8 +1179,8 @@ const friendsData = [
     render: "assets/friends/render06.png",
     avatar: "assets/friends/avatar06.png",
     video: "assets/friends/video06.mp4",
-    link: "https://xat.me/1542991141",
-    quote: "「 Me alegro mucho de haberte conocido y de todas las risas, charlas y libros que hemos ido compartiendo (o que te he pasado yo).<br> A ver cuando continuas tus lecturas que no tengo con quien hablar. <br>Que sigamos recomendándonos libros y compartiendo frikadas por mucho tiempo.<br>“Live, Manon. Live” — A better wold.” 。 」"
+    link: "https://xat.me/x",
+    quote: "「  」"
   },
   {
     number: 7,
@@ -1191,8 +1191,8 @@ const friendsData = [
     render: "assets/friends/render07.png",
     avatar: "assets/friends/avatar07.png",
     video: "assets/friends/video07.mp4",
-    link: "https://xat.me/108534737",
-    quote: "「 Que onda roxy, espero que tu hermanita te haya dado permiso para este space, si no le voy a tener que contar, saludos。 」"
+    link: "https://xat.me/x",
+    quote: "「 」"
   }
 ];
 
