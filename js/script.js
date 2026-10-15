@@ -11,7 +11,7 @@ const SOCIAL_LINKS = {
   instagram: "https://www.instagram.com/roxinzunza",
   tiktok: "https://www.tiktok.com/",
   facebook: "https://www.facebook.com/",
-  youtube: "https://youtu.be/Tk9TM7-eTmw?si=NpcyesZNgQA3lw9Q",
+  youtube: "https://youtu.be/l9qHp0N7_-k",
   x: "https://x.com/"
 };
 
